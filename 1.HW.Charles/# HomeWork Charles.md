@@ -1,7 +1,7 @@
 # HomeWork Charles
 
-## Перехват, анализ и подмена трафика: BreakPoint, Rewrite
-## Используемые инструменты: Charles Proxy, Postman
+## Перехват, анализ и подмена трафика: BreakPoint, Rewrite.
+## Используемые инструменты: Charles Proxy, Postman.
 
 ==================
 
